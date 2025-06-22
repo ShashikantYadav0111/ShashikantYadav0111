@@ -8,4 +8,4 @@
 Java · Spring Boot · Angular · Docker · MongoDB · Redis · Git
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashikantYadav0111&show_icons=true&theme=radical)
